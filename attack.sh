@@ -1,5 +1,6 @@
 #!/bin/bash
 
+sleep 2
 # Define target URL
 #target_url="https://example.com"
 read -p "Enter the url to be tested : " target_url
